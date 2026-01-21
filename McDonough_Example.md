@@ -4,6 +4,7 @@ Below you will find an example introduction written in Markdown. You should crea
 - a little bit about yourself, for example: your year and major, hobbies, and career interests
 - describe any prior coding experience you may have
 - tell me what you're interested in learning about this semester
+- share some of your thoughts/opinions on large language models (LLMs) like ChatGPT, Gemini, and Copilot
 
 When you're done:
 - use the 'preview' button (should be top left of the text editor) to view your file formatted with Markdown
