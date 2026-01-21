@@ -10,7 +10,7 @@ When you're done:
 - use the 'preview' button (should be top left of the text editor) to view your file formatted with Markdown
 - make any needed edits to fix up formatting
 - commit changes; with any commit you will need to provide a brief explanation of the change made. If Copilot is enabled it may suggest one for you.
-- create a pull request to add your new file to the main assignment repository
+- create a pull request (there should be a button that says 'contribute') to add your new file to the main assignment repository
 
 # Bryanne McDonough
 
